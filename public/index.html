@@ -2,19 +2,35 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <title>MIMIZ PIZZA</title>
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!--======== Font icon Css ============-->
+    <link href="%PUBLIC_URL%/css/font-awesome.min.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/css/themify-icons.css" rel="stylesheet">
+    
+    <!--======= Bootstrap Main Css =============-->
+    <link href="%PUBLIC_URL%/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!--====== Plugins Css ================-->
+    <link href="%PUBLIC_URL%/css/plugins.css" rel="stylesheet">
+
+    <!--====== Custom CSS for themes =======-->
+    <link href="%PUBLIC_URL%/css/style.css" rel="stylesheet">
+    
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <script src="%PUBLIC_URL%/js/vendor/modernizr-2.8.3.min.js"></script>
+
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -24,7 +40,6 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -39,5 +54,18 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+        <!-- All JS files are included here.
+	============================================== -->
+   
+    <!-- jQuery Latest Version -->
+    <script src="%PUBLIC_URL%/js/jquery-v3.2.1.min.js"></script>
+    <!-- Popper JS -->
+    <script src="%PUBLIC_URL%/js/popper.min.js"></script>
+    <!-- Bootstrap framework JS -->
+    <script src="%PUBLIC_URL%/js/bootstrap.min.js"></script>
+    <!-- All JS plugins included in this file. -->
+    <script src="%PUBLIC_URL%/js/plugins.js"></script>
+    <!-- Main JS file that contents all jQuery Plugins activation. -->
+    <script src="js/main.js"></script>
   </body>
 </html>
