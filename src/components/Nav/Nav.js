@@ -17,28 +17,19 @@ export default class Nav extends Component {
                <div className="row">
                    <div className="col">
                    <div className="logo-menu-wrap hidden-xs hidden-sm">
-                       <div className="logo">
+                       {/* <div className="logo">
                        <Link  to={{
                            pathname: '/'
                        }}>
                            <img src={Logo} alt="logo" width='80' />
                        </Link>
-                       </div>
+                       </div> */}
 
 
 
                        <nav className="menu">
                        <ul id="nav">
-                           <li><h1>
-                               <NavLink exact 
-                                        activeClassName="active-link"
-                                        to={{
-                                           pathname: '/'
-                                       }}>
-                                       HOME
-                               </NavLink>
-                               </h1>
-                           </li>
+                          
                            <li><h1>
                                <NavLink exact 
                                         activeClassName="active-link"
@@ -46,6 +37,16 @@ export default class Nav extends Component {
                                            pathname: '/menu'
                                        }}>
                                        MENU
+                               </NavLink>
+                               </h1>
+                           </li>
+                           <li><h1>
+                               <NavLink exact 
+                                        activeClassName="active-link"
+                                        to={{
+                                           pathname: '/'
+                                       }}>
+                                        <img src={Logo} alt="logo" width='80' />
                                </NavLink>
                                </h1>
                            </li>

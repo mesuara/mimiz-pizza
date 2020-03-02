@@ -13,7 +13,10 @@ html {
     
 }
 a {
-    color:blanchedalmond;
+    color:white;
+}
+a:hover {
+    color:blanchedalmond ;
 }
 
 body{
@@ -27,6 +30,7 @@ body{
     background-color: black;
     width: 100%;
     align-items: center;
+    border-bottom:2px solid blanchedalmond;
    
 
 }
@@ -60,7 +64,7 @@ ul#nav{
 .menu li{
     display: flex;
     flex-direction: row;
-    padding: 10px;
+    padding: 20px;
 }
 li {
     list-style-type: none;
