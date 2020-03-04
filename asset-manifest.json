@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mimiz-pizza/static/css/main.5be96be1.chunk.css",
-    "main.js": "/mimiz-pizza/static/js/main.25389bc5.chunk.js",
-    "main.js.map": "/mimiz-pizza/static/js/main.25389bc5.chunk.js.map",
+    "main.js": "/mimiz-pizza/static/js/main.9f31d851.chunk.js",
+    "main.js.map": "/mimiz-pizza/static/js/main.9f31d851.chunk.js.map",
     "runtime-main.js": "/mimiz-pizza/static/js/runtime-main.e9f39885.js",
     "runtime-main.js.map": "/mimiz-pizza/static/js/runtime-main.e9f39885.js.map",
     "static/js/2.4bec7612.chunk.js": "/mimiz-pizza/static/js/2.4bec7612.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a8d1995d.chunk.js": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js",
     "static/js/3.a8d1995d.chunk.js.map": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js.map",
     "index.html": "/mimiz-pizza/index.html",
-    "precache-manifest.43ceb9bd731857bf6cdd6dc9129cbff7.js": "/mimiz-pizza/precache-manifest.43ceb9bd731857bf6cdd6dc9129cbff7.js",
+    "precache-manifest.d99d2df99f389775d5d09f9908e0c52c.js": "/mimiz-pizza/precache-manifest.d99d2df99f389775d5d09f9908e0c52c.js",
     "service-worker.js": "/mimiz-pizza/service-worker.js",
     "static/css/main.5be96be1.chunk.css.map": "/mimiz-pizza/static/css/main.5be96be1.chunk.css.map",
     "static/js/2.4bec7612.chunk.js.LICENSE.txt": "/mimiz-pizza/static/js/2.4bec7612.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.e9f39885.js",
     "static/js/2.4bec7612.chunk.js",
     "static/css/main.5be96be1.chunk.css",
-    "static/js/main.25389bc5.chunk.js"
+    "static/js/main.9f31d851.chunk.js"
   ]
 }
