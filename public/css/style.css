@@ -100,3 +100,16 @@ li {
     border: 2px solid blanchedalmond;
 
 }
+
+
+@media only screen and (max-width: 575px) { 
+
+    nav.menu{
+        display: flex;
+    }
+
+    .welcome-text h1#soon{
+        padding-top: 0px;
+        font-size: 8vh;
+    }
+}
