@@ -46,7 +46,7 @@ export default class Nav extends Component {
                                         to={{
                                            pathname: '/'
                                        }}>
-                                        <img src={Logo} alt="logo" width='80' />
+                                        <img src={Logo} alt="MIMIS PIZZA logo" width='80' />
                                </NavLink>
                                </h1>
                            </li>
