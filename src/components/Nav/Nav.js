@@ -28,6 +28,9 @@ export default class Nav extends Component {
 
 
                        <nav className="menu">
+                       <div id='logoMobile'>
+                            <img src={Logo} alt="MIMIS PIZZA logo"  />
+                        </div>    
                        <ul id="nav">
                           
                            <li><h1>
