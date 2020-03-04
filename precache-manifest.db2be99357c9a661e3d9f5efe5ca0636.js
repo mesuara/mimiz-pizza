@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d7716360970577afcf319fe582284e4",
+    "revision": "17c911b879396e4030bd026e9cc3ed09",
     "url": "/mimiz-pizza/index.html"
   },
   {
-    "revision": "e43fe06a70f91273417e",
+    "revision": "56bd540c15efc3c3cd24",
     "url": "/mimiz-pizza/static/css/main.5be96be1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js"
   },
   {
-    "revision": "e43fe06a70f91273417e",
-    "url": "/mimiz-pizza/static/js/main.9f31d851.chunk.js"
+    "revision": "56bd540c15efc3c3cd24",
+    "url": "/mimiz-pizza/static/js/main.acd85dab.chunk.js"
   },
   {
     "revision": "8ad28cee199b2a84620e",
