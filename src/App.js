@@ -12,7 +12,8 @@ function App() {
       <React.Suspense fallback={<Spinner />}>
     <div className="App">
       <Nav/>
-      <Route exact path='/' component={Home} />
+      {/* chage the path for the deployed version in github pages */}
+      <Route exact path='/mimiz-pizza' component={Home} />
       
       
     </div>
