@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17c911b879396e4030bd026e9cc3ed09",
+    "revision": "23fd04bb4cd06482047ffb446583fa11",
     "url": "/mimiz-pizza/index.html"
   },
   {
-    "revision": "56bd540c15efc3c3cd24",
+    "revision": "c242400099af6445442c",
     "url": "/mimiz-pizza/static/css/main.5be96be1.chunk.css"
   },
   {
-    "revision": "1d6ec2f38b68702df21c",
-    "url": "/mimiz-pizza/static/js/2.4bec7612.chunk.js"
+    "revision": "d4264cf41a246081f420",
+    "url": "/mimiz-pizza/static/js/2.f8a87b90.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/mimiz-pizza/static/js/2.4bec7612.chunk.js.LICENSE.txt"
+    "url": "/mimiz-pizza/static/js/2.f8a87b90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec79a21ccaca6a262941",
-    "url": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js"
+    "revision": "263e6dcfcb30d26dd06c",
+    "url": "/mimiz-pizza/static/js/3.61fb8f7b.chunk.js"
   },
   {
-    "revision": "56bd540c15efc3c3cd24",
-    "url": "/mimiz-pizza/static/js/main.acd85dab.chunk.js"
+    "revision": "c242400099af6445442c",
+    "url": "/mimiz-pizza/static/js/main.45cf2506.chunk.js"
   },
   {
-    "revision": "8ad28cee199b2a84620e",
-    "url": "/mimiz-pizza/static/js/runtime-main.e9f39885.js"
+    "revision": "b761841ca66ae8cb8b64",
+    "url": "/mimiz-pizza/static/js/runtime-main.803bd086.js"
   },
   {
     "revision": "f4c1e95476a484cd3f805be5ea63a36d",

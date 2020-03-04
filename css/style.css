@@ -100,3 +100,72 @@ li {
     border: 2px solid blanchedalmond;
 
 }
+ 
+#logoMobile{
+    display: none;
+}
+/* FOOTERRRRR */
+
+.site-footer{
+    padding-top: 20px;
+}
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:100%;
+   
+  
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    width:100%;
+}
+#gmap_canvas{
+    width: 100%;
+    height: 200px;
+}
+
+@media only screen and (max-width: 575px) { 
+
+    nav.menu{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+    }
+
+    ul#nav {
+        /* visibility: hidden; */
+        display: none;
+    }
+
+    .welcome-text h1#soon{
+        padding-top: 0px;
+        font-size: 5vh;
+    }
+
+    .welcome-text h1 {
+        font-size: 3vh;
+    }
+    .order-btn{
+        width: 20vh;
+        padding: 0px;
+        margin: 15px;
+        font-size: 4vh;
+    }
+    #home-search-section{
+        height: 60vh;
+    }
+    #logoMobile{
+        visibility: visible;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #logoMobile img{
+        height: 25vh;
+        padding: 10px;
+    }
+}

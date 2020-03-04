@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/mimiz-pizza/static/css/main.5be96be1.chunk.css",
-    "main.js": "/mimiz-pizza/static/js/main.acd85dab.chunk.js",
-    "main.js.map": "/mimiz-pizza/static/js/main.acd85dab.chunk.js.map",
-    "runtime-main.js": "/mimiz-pizza/static/js/runtime-main.e9f39885.js",
-    "runtime-main.js.map": "/mimiz-pizza/static/js/runtime-main.e9f39885.js.map",
-    "static/js/2.4bec7612.chunk.js": "/mimiz-pizza/static/js/2.4bec7612.chunk.js",
-    "static/js/2.4bec7612.chunk.js.map": "/mimiz-pizza/static/js/2.4bec7612.chunk.js.map",
-    "static/js/3.a8d1995d.chunk.js": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js",
-    "static/js/3.a8d1995d.chunk.js.map": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js.map",
+    "main.js": "/mimiz-pizza/static/js/main.45cf2506.chunk.js",
+    "main.js.map": "/mimiz-pizza/static/js/main.45cf2506.chunk.js.map",
+    "runtime-main.js": "/mimiz-pizza/static/js/runtime-main.803bd086.js",
+    "runtime-main.js.map": "/mimiz-pizza/static/js/runtime-main.803bd086.js.map",
+    "static/js/2.f8a87b90.chunk.js": "/mimiz-pizza/static/js/2.f8a87b90.chunk.js",
+    "static/js/2.f8a87b90.chunk.js.map": "/mimiz-pizza/static/js/2.f8a87b90.chunk.js.map",
+    "static/js/3.61fb8f7b.chunk.js": "/mimiz-pizza/static/js/3.61fb8f7b.chunk.js",
+    "static/js/3.61fb8f7b.chunk.js.map": "/mimiz-pizza/static/js/3.61fb8f7b.chunk.js.map",
     "index.html": "/mimiz-pizza/index.html",
-    "precache-manifest.db2be99357c9a661e3d9f5efe5ca0636.js": "/mimiz-pizza/precache-manifest.db2be99357c9a661e3d9f5efe5ca0636.js",
+    "precache-manifest.9f25d2fb39cbc4ba1dfeb3d8dce5e709.js": "/mimiz-pizza/precache-manifest.9f25d2fb39cbc4ba1dfeb3d8dce5e709.js",
     "service-worker.js": "/mimiz-pizza/service-worker.js",
     "static/css/main.5be96be1.chunk.css.map": "/mimiz-pizza/static/css/main.5be96be1.chunk.css.map",
-    "static/js/2.4bec7612.chunk.js.LICENSE.txt": "/mimiz-pizza/static/js/2.4bec7612.chunk.js.LICENSE.txt",
+    "static/js/2.f8a87b90.chunk.js.LICENSE.txt": "/mimiz-pizza/static/js/2.f8a87b90.chunk.js.LICENSE.txt",
     "static/media/background-hero.png": "/mimiz-pizza/static/media/background-hero.f4c1e954.png",
     "static/media/logo.svg": "/mimiz-pizza/static/media/logo.5d5d9eef.svg",
     "static/media/logo.png": "/mimiz-pizza/static/media/logo.825e41e9.png",
     "static/media/pizzaAnimation.gif": "/mimiz-pizza/static/media/pizzaAnimation.42218fc6.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9f39885.js",
-    "static/js/2.4bec7612.chunk.js",
+    "static/js/runtime-main.803bd086.js",
+    "static/js/2.f8a87b90.chunk.js",
     "static/css/main.5be96be1.chunk.css",
-    "static/js/main.acd85dab.chunk.js"
+    "static/js/main.45cf2506.chunk.js"
   ]
 }
