@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd5e1fb2fbc18f7a631fb5b2f1c40b03",
+    "revision": "6d23b9eb7e27df2a4db4ae4d7368b5a0",
     "url": "/mimiz-pizza/index.html"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mimiz-pizza/static/js/2.4bec7612.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60a9cc0ecfd975002c8f",
-    "url": "/mimiz-pizza/static/js/3.32a70ce6.chunk.js"
+    "revision": "ec79a21ccaca6a262941",
+    "url": "/mimiz-pizza/static/js/3.a8d1995d.chunk.js"
   },
   {
     "revision": "6f4afcc8f65261934447",
     "url": "/mimiz-pizza/static/js/main.25389bc5.chunk.js"
   },
   {
-    "revision": "08ceab88da18338b8b1e",
-    "url": "/mimiz-pizza/static/js/runtime-main.7c334821.js"
+    "revision": "8ad28cee199b2a84620e",
+    "url": "/mimiz-pizza/static/js/runtime-main.e9f39885.js"
   },
   {
-    "revision": "6eb3ba00e80e2e08dce042d0c64c2387",
-    "url": "/mimiz-pizza/static/media/dough.6eb3ba00.png"
+    "revision": "f4c1e95476a484cd3f805be5ea63a36d",
+    "url": "/mimiz-pizza/static/media/background-hero.f4c1e954.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
